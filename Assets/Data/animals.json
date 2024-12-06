@@ -1,0 +1,217 @@
+[
+  {
+    "name": "Blue Whale",
+    "size": "Up to 30 meters (98 feet) long",
+    "Weight": "Up to 200 tons (400,000 pounds)",
+    "Nature": "Gentle giants.",
+    "image_url": "https://static01.nyt.com/images/2023/01/24/science/19tb-whales-giant-03/19tb-whales-giant-03-videoSixteenByNine3000.jpg",
+    "Maximum Age": " 80–90 years",
+    "Description": "Blue whales are baleen whales known for their massive size, deep blue-grey color, and loud calls that can travel thousands of kilometers underwater."
+  },
+  {
+    "name": "Orca",
+    "size": "6–8 meters (20–26 feet) ",
+    "Weight": "3–6 tons (6,000–12,000 pounds)",
+    "Nature": " Intelligent and social.",
+    "image_url": "https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/MA_00824673_livihr.jpg",
+    "Maximum Age": "50-90 years",
+    "Description": " Often called 'killer whales', orcas are black and white marine mammals with strong family bonds and diverse hunting techniques."
+  },
+  {
+    "name": "Great White Shark",
+    "size": " 4–6 meters (13–20 feet)",
+    "Weight": " 1,100–2,400 kilograms (2,400–5,300 pounds)",
+    "Nature": "Solitary hunters.",
+    "image_url": "https://th.bing.com/th/id/R.b0609b9e6f45a1ae2c050a7c9e25ffff?rik=0oqKJdxCVflYDg&riu=http%3a%2f%2fsnowbrains.com%2fwp-content%2fuploads%2f2015%2f01%2fgreat-white-shark.jpg&ehk=TWU9lbci8xV3Z4i4VxFd2RofZa9oeNIH9kaNq6Wc1Ks%3d&risl=&pid=ImgRaw&r=0",
+    "Maximum Age": "70+ years",
+    "Description": "The great white shark is a powerful predator with a torpedo-shaped body and rows of sharp teeth, making it one of the most recognizable shark species."
+  },
+  {
+    "name": "Tuna",
+    "size": "60.6 million square miles",
+
+
+    "Weight": "12,797 feet (3,900 meters)",
+    "Nature": "Tuna are streamlined.",
+    "image_url": "https://www.fishchartercuracao.com/wp-content/uploads/2016/01/Trip1YellowFin-1030x644.jpg",
+    "Maximum Age": "Up to 40 years.",
+    "Description": "Tuna are streamlined, fast-swimming fish prized in commercial fisheries. They are known for their ability to regulate body temperature, aiding their speed and endurance."
+
+
+
+  },
+  {
+    "name": "Salmon",
+    "size": " 0.7–1.5 meters (2–5 feet)",
+    "Weight": "3–35 kilograms (7–77 pounds)",
+    "Nature": "Migratory",
+    "image_url": "https://th.bing.com/th/id/R.f1316fa05853225245edd0b1f611cf79?rik=u%2fYbFo%2bVp%2bbHdg&pid=ImgRaw&r=0",
+    "Maximum Age": " 4–8 years",
+    "Description": "Salmon are known for their incredible migrations and importance to freshwater and marine ecosystems. They are a key food source for many predators, including bears and humans."
+  },
+
+  {
+    "name": "Humpback Whale",
+    "size": "12–16 meters (39–52 feet)",
+    "Weight": "25–30 tons (50,000–60,000 pounds)",
+    "Nature": "Gentle and social",
+    "image_url": "https://www.tahiti.com/images1/gallery/Moorea-Whale-Watching5-2000x1200_76336_84466.jpg",
+    "Maximum Age": " 45–50 years",
+    "Description": "Humpback whales are baleen whales famous for their breaching behavior and long pectoral fins. They migrate vast distances between feeding and breeding grounds."
+  },
+  {
+    "name": "Dolphins",
+    "size": " 2–4 meters (6.5–13 feet)",
+    "Weight": "150–650 kilograms (330–1,430 pounds)",
+    "Nature": "Highly intelligent, playful,social",
+    "image_url": "https://cdn.britannica.com/88/188088-050-B2B457A0/dolphins-blue-sea-mammal-sky.jpg",
+    "Maximum Age": "40–60 years",
+    "Description": "Dolphins are marine mammals with streamlined bodies and a playful nature. They are known for their intelligence, echolocation abilities, and friendly interactions with humans."
+  },
+  {
+    "name": "Cod",
+    "size": " Up to 1.5 meters (5 feet)",
+    "Weight": " Up to 90 kilograms (200 pounds)",
+    "Nature": "Bottom-dwelling fish",
+    "image_url": "https://th.bing.com/th/id/R.7e4941626940a3db9dbffc3d865ce979?rik=F7mkXol%2bk4YIWw&riu=http%3a%2f%2fwww.fishsec.org%2fapp%2fuploads%2f2022%2f03%2fcod-for-web-credit-J.Muller-1024x579.jpg&ehk=QA%2f7pxaHtyzcmkZVYClkNseVW3rqvNgrWMb9g%2fpKI3k%3d&risl=&pid=ImgRaw&r=0",
+    "Maximum Age": " 20–25 years",
+    "Description": "Cod are commercially important fish known for their mild flavor. They inhabit cooler waters and are vital to many marine ecosystems and human industries."
+  },
+  {
+    "name": "Lobster",
+    "size": " 0.7–1.5 meters (2–5 feet)",
+    "Weight": "Typically 1–2 kilograms (2–4 pounds)",
+    "Nature": "Bottom-dwelling crustaceans",
+    "image_url": "https://s-i.huffpost.com/gen/1951550/images/o-LOBSTER-GOPRO-facebook.jpg",
+    "Maximum Age": "50+  years",
+    "Description": "Lobsters are invertebrates with a hard exoskeleton and large claws. They are known for their ability to regenerate lost limbs and for being a prized seafood delicacy."
+  },
+  {
+    "name": "Shark",
+    "size": "3-5 meters (13-16 feet)",
+    "Weight": "up to 900 kilograms (2,000 pounds)",
+    "Nature": "Apex predators",
+    "image_url": "https://th.bing.com/th/id/R.f7d678da828bd1aad9b299a50bd3ab9a?rik=jjEvIo9%2fTFLw1w&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f3%2f39%2fTiger_shark.jpg&ehk=U%2bhqDC1WAoXO7OJk9RfxPtztHI9k%2fkO5iKkL380VZWc%3d&risl=&pid=ImgRaw&r=0",
+    "Maximum Age": " 30–70 years",
+    "Description": "Sharks are cartilaginous fish with sharp teeth and keen senses. They are critical to ocean health, controlling prey populations and maintaining balance."
+  },
+
+  {
+    "name": "Dugongs",
+    "size": " 2.5–4 meters (8–13 feet)",
+    "Weight": "250–900 kilograms (550–2,000 pounds)",
+    "Nature": "Gentle and slow-moving herbivores",
+    "image_url": "https://www.whalesharkdive.com/wp-content/uploads/2023/04/Where-can-you-see-dugongs-in-Australia-scaled.jpg",
+    "Maximum Age": " 70+ years",
+    "Description": "Dugongs, often called 'sea cows', are marine mammals closely related to manatees. They are vital for maintaining healthy seagrass ecosystems."
+  },
+  {
+    "name": "Whale Sharks",
+    "size": " 12-18 meters (40-59 feet)",
+    "Weight": "11–20 tons (22,000–40,000 pounds)",
+    "Nature": "Gentle giants and filter feeders",
+    "image_url": "https://www.treehugger.com/thmb/8xNIwZLw1lyQq7DJM8vpOqS7v1U=/3153x2102/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1247022865-feb309c462bd48f3a412896659ef356a.jpg",
+    "Maximum Age": " 70–100 years",
+    "Description": "The whale shark is the largest fish species. Its unique spotted pattern makes it easily recognizable, and it migrates across vast distances in tropical oceans."
+  },
+  {
+    "name": "Clownfish",
+    "size": "10–18 centimeters (4–7 inches",
+    "Weight": " A few grams",
+    "Nature": "Symbiotic",
+    "image_url": "https://i.pinimg.com/736x/50/e2/a0/50e2a0bdde0faadf63f337e32cd68b3e--saltwater-aquarium-clownfish.jpg",
+    "Maximum Age": "6–10 years",
+    "Description": "Known for their bright orange bodies with white stripes, clownfish are small, colorful fish made famous by the movie Finding Nemo."
+  },
+  {
+    "name": "Sea Snakes",
+    "size": " 1–3 meters (3–10 feet)",
+    "Weight": " 0.5–2 kilograms (1–4 pounds)",
+    "Nature": "Highly venomous but generally non-aggressive",
+    "image_url": "https://www.thoughtco.com/thmb/l3ocr5hdtx6Y06XaEf8W2QOoVxE=/5197x3452/filters:fill(auto,1)/the-underwater-world-of-philippines--southeast-asia--western-pacific-ocean--638856734-5ab16034642dca00369e3cc6.jpg",
+    "Maximum Age": " 5–10 years",
+    "Description": "Sea snakes are adapted to marine life with paddle-like tails for swimming. They can breathe through their skin, allowing extended dives."
+  },
+  {
+    "name": "Crabs",
+    "size": "20 cm - 1.8m (8 inches - 6 feet)",
+    "Weight": "1-10 kilograms (2-22 pounds)",
+    "Nature": "Opportunistic feeders",
+    "image_url": "https://agrostory.com/upload/iblock/d6b/d6be9c65774940fcffbae90d5b38aefd.jpg",
+    "Maximum Age": "3–30 years",
+    "Description": " Crabs are crustaceans with hard exoskeletons and pincers. They play an important role in both marine and coastal ecosystems and are a significant food source for humans."
+  },
+  {
+    "name": "Emperor Penguins ",
+    "size": "115 cm (45 inches) tall",
+    "Weight": "22–45 kilograms (49–99 pounds)",
+    "Nature": "Social and highly adapted to cold",
+    "image_url": "https://cff2.earth.com/uploads/2022/10/27063339/Emperor-penguin-scaled.jpg",
+    "Maximum Age": " 15–20 years",
+    "Description": "Emperor penguins are the largest penguin species. They are known for their endurance in Antarctica’s freezing climate and their unique parenting behaviors."
+  },
+  {
+    "name": "Leopard Seals",
+    "size": "2.4–3.5 meters (8–11.5 feet)",
+    "Weight": "200–600 kilograms (440–1,320 pounds)",
+    "Nature": "Solitary and opportunistic predators",
+    "image_url": "https://cff2.earth.com/uploads/2022/08/29050011/Leopard-seal-scaled.jpg",
+    "Maximum Age": "25–30 years",
+    "Description": " Leopard seals are sleek and agile predators in Antarctic waters. They are named for their spotted coats and fierce hunting tactics."
+  },
+  {
+    "name": "Krill",
+    "size": "1–6 cm (0.4–2.4 inches)",
+    "Weight": "2 grams",
+    "Nature": "Planktonic and highly abundant",
+    "image_url": "https://th.bing.com/th/id/R.ff360e74b60904e29ca5074800fe3f72?rik=3pdo18KXWL1Daw&pid=ImgRaw&r=0",
+    "Maximum Age": "5–10 years",
+    "Description": "Krill are small, shrimp-like crustaceans found in massive swarms in polar oceans. They are vital to marine ecosystems and are one of the most abundant species on Earth."
+  },
+  {
+    "name": " Blue Whales",
+    "size": " Up to 30 meters (98 feet)",
+    "Weight": "Up to 200 tons (400,000 pounds)",
+    "Nature": "Gentle giants",
+    "image_url": "https://www.msichicago.org/fileadmin/assets/_processed_/0/6/csm_blue_whales_mum_and_calf_iyNVJCy0_be4c39aaf8.jpg",
+    "Maximum Age": "80–90 years",
+    "Description": "Blue whales are the largest animals ever to live on Earth, known for their immense size, deep calls, and role in maintaining the ocean's ecosystem balance."
+  },
+  {
+    "name": " Polar Bears",
+    "size": "2.4–3 meters (7.9–9.8 feet)",
+    "Weight": "150–700 kilograms (330–1,540 pounds)",
+    "Nature": "Solitary and carnivorous",
+    "image_url": "https://th.bing.com/th/id/R.21071da80bb157bfed0c27844edb41e6?rik=rMyML707rQ%2b7Lg&pid=ImgRaw&r=0",
+    "Maximum Age": "25–30 years",
+    "Description": "Polar bears are powerful Arctic mammals adapted to icy environments with thick fur and a layer of fat for insulation. They are iconic symbols of Arctic ecosystems but are vulnerable due to climate change."
+  },
+  {
+    "name": "Walruses",
+    "size": "2.5–3.6 meters (8–12 feet)",
+    "Weight": "800–1,500 kilograms (1,760–3,300 pounds)",
+    "Nature": "Social and semi-aquatic",
+    "image_url": "https://th.bing.com/th/id/R.7b10f210ed54141754a09ce0ca71dabe?rik=wnJCPGGv%2fPXiyQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fc%2fce%2fNoaa-walrus22.jpg&ehk=E58mJyGLNGcPnw%2bu8M61ZTwj%2bPaRpLPDESHfWeiyrYY%3d&risl=&pid=ImgRaw&r=0",
+    "Maximum Age": "35–40 years",
+    "Description": "Walruses are large marine mammals with distinctive tusks and whiskers. They play a key role in Arctic ecosystems and rely heavily on sea ice for resting and breeding."
+  },
+  {
+    "name": "Narwhals",
+    "size": "4–5.5 meters (13–18 feet)",
+    "Weight": "800–1,600 kilograms (1,760–3,500 pounds)",
+    "Nature": "Apex predators",
+    "image_url": "https://magazine.washington.edu/columns_wordpress/wp-content/uploads/2018/06/Narwhal3og.jpg",
+    "Maximum Age": "50–60 years",
+    "Description": "Narwhals are medium-sized toothed whales often called the 'unicorns of the sea'. Their tusks can grow up to 3 meters (10 feet) and are thought to play a role in sensing the environment or social dominance."
+  },
+  {
+    "name": "Arctic Foxes",
+    "size": "46–68 cm (18–27 inches)",
+    "Weight": "2.5–9 kilograms (5.5–20 pounds)",
+    "Nature": "Adaptable and opportunistic",
+    "image_url": "https://www.thoughtco.com/thmb/9XrsgrtrmDhRojkpc67w1L4OTSw=/2133x1405/filters:fill(auto,1)/arctic-fox-468029675-5b3247a0c9e77c001a4df47a.jpg",
+    "Maximum Age": "3–6 years",
+    "Description": "Arctic foxes are small mammals with thick fur that changes color (white in winter, brown in summer) to blend with their environment. They are highly adapted to cold climates and are important scavengers in Arctic ecosystems."
+  }
+
+]

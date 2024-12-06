@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Pacific Ocean",
+    "size": "60.6 million square miles",
+    "depth": "12,797 feet (3,900 meters)",
+    "animals": ["Blue Whale", "Orca", "Great White Shark", "Tuna", "Salmon"],
+    "image_url": "https://media.hswstatic.com/eyJidWNrZXQiOiJjb250ZW50Lmhzd3N0YXRpYy5jb20iLCJrZXkiOiJnaWZcL2dldHR5aW1hZ2VzLTE1NzY4MzA0MC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOjgyOH19fQ==",
+    "fun_fact": "The Pacific Ocean is home to the Mariana Trench, the deepest point on Earth.",
+    "climate": "Tropical, subtropical, temperate, and polar climates",
+    "currents": "Kuroshio Current, California Current, East Australian Current",
+    "ecosystems": ["Coral reefs, kelp forests, deep-sea vents"]
+  },
+  {
+    "name": "Atlantic Ocean",
+    "size": "33.4 million square miles",
+    "depth": "12,262 feet (3,742 meters)",
+    "animals": ["Humpback Whale", "Dolphins", "Cod", "Lobster", "Shark"],
+    "image_url": "https://images.pexels.com/photos/3558637/pexels-photo-3558637.jpeg?cs=srgb&dl=pexels-nunoveludo-3558637.jpg&fm=jpg",
+    "fun_fact": "The Gulf Stream, a powerful warm current, flows through the Atlantic Ocean.",
+    "climate": "Tropical, subtropical, temperate, and polar climates",
+    "currents": "Gulf Stream, North Atlantic Current, South Atlantic Current",
+    "ecosystems": ["Coral reefs, kelp forests, deep-sea vents"]
+  },
+  {
+    "name": "Indian Ocean",
+    "size": "27.2 million square miles",
+    "depth": "12,274 feet (3,744 meters)",
+    "animals": ["Dugongs", "whale sharks", "clownfish", "sea snakes", "lobsters","crabs"],
+    "image_url": "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/21/2020/10/how-to-sail-across-the-indian-ocean-Le-Morne-Brabant-peninsula-maritius-credit-Roberto-Moiola-Getty-630x394.jpg",
+    "fun_fact": "The Indian Ocean has the warmest surface temperatures of all oceans.",
+    "climate": "Tropical, subtropical, temperate, and polar climates",
+    "currents": "Indian Monsoon Current, Agulhas Current, Somali Current",
+    "ecosystems": ["Coral reefs, Seagrass meadows, Mangroves along coastal areas"]
+  },
+  {
+    "name": "Southern Ocean",
+    "size": "7.8  million square miles",
+    "depth": "10,728 feet (3,270  meters)",
+    "animals": ["Emperor penguins"," leopard seals"," krill"," blue whales","orcas"],
+    "image_url": "https://th.bing.com/th/id/R.6853701d58d0be6bd08b85d56b817ef6?rik=%2f8cXp1hbohCMMQ&pid=ImgRaw&r=0 ",
+    "fun_fact": "The Southern Ocean is the only ocean that circles the Earth entirely, surrounding Antarctica.",
+    "climate": "Extremely cold,  low temperatures ,  icy winds",
+    "currents": "Antarctic Circumpolar Current",
+    "ecosystems": ["Ice-based ecosystems, Open-ocean ecosystems supporting krill and whales, Seafloor ecosystems with unique species like icefish"]
+  },
+  {
+    "name": "Arctic  Ocean",
+    "size": "5.4 million square miles",
+    "depth": "3,406 feet (1,038  meters)",
+    "animals": [" Polar bears", "walruses", "narwhals", "Arctic foxes", "seal species"],
+    "image_url": "https://images4.alphacoders.com/667/thumb-1920-667735.jpg",
+    "fun_fact": "The Arctic Ocean is almost entirely covered by ice in winter, but its ice is rapidly melting due to climate change.",
+    "climate": "Frigid temperatures, short summers",
+    "currents": "Beaufort Gyre, Transpolar Drift Stream",
+    "ecosystems": ["Sea ice ecosystems,Open-water ecosystems during summer melt, Seafloor ecosystems with benthic species"]
+  }
+]
